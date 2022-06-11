@@ -18,7 +18,7 @@ console.log("Before");
 request("https://www.worldometers.info/coronavirus/",cb);
 console.log("After");
 function cb(err,response,html){
-   if(error) console.log("error:",err);//Print the error if one occurred
+   if(err) console.log("error:",err);//Print the error if one occurred
 
    else
     console.log("html:",html);//Print the HTML for the Google homepage.
@@ -36,4 +36,5 @@ function handlehtml(html){
 //console.log(h1s.length);
 
     }
+    
 }

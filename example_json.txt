@@ -1,0 +1,2 @@
+Json file me sirf data transfer hota hai jisme string k form me likha jata hai array bool number string ye sab data transfer hota hai 
+isme comment aur function nhi hota hai 

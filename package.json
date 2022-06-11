@@ -1,0 +1,25 @@
+{
+  "name": "web_scrapping",
+  "version": "1.0.0",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karn-Tiwari/WEB_SCRAPPING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karn-Tiwari/WEB_SCRAPPING/issues"
+  },
+  "homepage": "https://github.com/Karn-Tiwari/WEB_SCRAPPING#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.11",
+    "request": "^2.88.2"
+  },
+  "description": ""
+}

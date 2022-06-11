@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Steve",
+        "last_name": "Jobs",
+        "isAvenger": true,
+        "friends": [
+            "Bill",
+            "Mark",
+            "Steve"
+        ],
+        "age": 56,
+        "address": {
+            "city": "Cupertino",
+            "state": "California"
+        }
+
+    },
+    {
+        "name": "Steve",
+        "last_name": "Jobs",
+        "isAvenger": true,
+        "friends": [
+            "Bill",
+            "Mark",
+            "Steve"
+        ],
+        "age": 56,
+        "address": {
+            "city": "Cupertino",
+            "state": "California"
+        }
+
+    },
+    {
+        "name": "Steve",
+        "last_name": "Jobs",
+        "isAvenger": true,
+        "friends": [
+            "Bill",
+            "Mark",
+            "Steve"
+        ],
+        "age": 56,
+        "address": {
+            "city": "Cupertino",
+            "state": "California"
+        }
+
+    }
+
+
+]
